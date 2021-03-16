@@ -144,4 +144,18 @@ h1{
     text-transform: uppercase;
     color: #6E6D7A;
     background-color: #fff;
+    margin-bottom: 259px;
+}
+.appstore{
+    text-align: center;
+    font-weight: normal;
+    font-size: 32px;
+    line-height: 53px;
+    text-align: center;
+    letter-spacing: 1.56px;
+    color: #383938;
+}
+.appstore-gadjets__img{
+    text-align: center;
+    margin: 0 auto;
 }
